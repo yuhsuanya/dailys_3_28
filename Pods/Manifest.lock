@@ -1,0 +1,20 @@
+PODS:
+  - CVCalendar (1.7.0)
+  - WMSegmentControl (2.2)
+
+DEPENDENCIES:
+  - CVCalendar (~> 1.7.0)
+  - WMSegmentControl
+
+SPEC REPOS:
+  trunk:
+    - CVCalendar
+    - WMSegmentControl
+
+SPEC CHECKSUMS:
+  CVCalendar: 1174c1b43c1a258970e14c1e8b19ef4106c5900b
+  WMSegmentControl: 4bb3a61e28cd0a0fcfcf932bec1f5795835b9f3f
+
+PODFILE CHECKSUM: e01a29f1f93ab9987b0d7ce31481a4f2985ca82c
+
+COCOAPODS: 1.10.1
